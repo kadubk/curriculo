@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carlos Eduardo Bittencourt Knebel</title>
+</head>
+    <nav>
+
+    </nav>
+<style>
+    body{
+        width: 100%;
+        color: #069;
+        text-align: center;
+        min-height: 100vh;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    
+
+</style>
+<body>
+    <div class="informações"><br><br>
+        <img src="https://static.wikia.nocookie.net/ptstarwars/images/6/6c/2511.jpg/revision/latest?cb=20121107230903"
+        width="100px" height="100px">
+        <h1>Carlos Eduardo Bittencourt Knebel</h1>
+        <hr class="hr_01"><br><br>
+        <h3>20 anos, masculino.</h3>
+        <h3>Brusque, rua tomaz coelho.</h3>
+        <h3>55 (47) 9994-8389</h3>
+        <h3>Email: c.e.b.k.kadu@gmail.com</h3>
+        <h3>Linkedin: @kadu</h3>
+        <hr class="hr-02">
+        <h2>objetivo</h2>
+        <b><p>Atuar na área de programação, aceito proposta.</p><b/>
+        <hr class="hr-03">
+        <h2>formação acadêmica</h2>
+        <b><p> Enisno médio completo<br>Sistema de informação UNIFEBE</p><b/>
+        <hr class="hr-04">
+        <h2>Experiências Profissionais</h2>
+        <b><p>2020 a 2021 Lia têxtil.<br><br>Cargo:<li>Revisor têxtil.</li><p/><b/>
+        <b><p>2021 Labortec Prótese Dentaria.<br><br>Cargo:<li>Prótese Dentaria.</li> </p></b>
+        <hr class="hr-05">
+        <h2>Cursos Complementares</h2>
+        <b><p>Técnico em programação<br><br>Inglês, alemão e japonês.</p></b>
+        <hr class="hr-06">
+        <h2>rotina diaria</h2>
+        <table border="1">
+            <tr>
+                <th colspan="4">segunda</th>
+                <th colspan="4">terça</th>
+                <th colspan="4">quarta</th>
+
+            </tr>
+            <tr>
+                <th>muay thay</th>
+                <th>estudar</th>
+                <th>trabalhar</th>
+                <th>faculdade</th>
+                <th>muay thay</th>
+                <th>estudar</th>
+                <th>trabalhar</th>
+                <th>faculdade</th>
+                <th>muay thay</th>
+                <th>estudar</th>
+                <th>trabalhar</th>
+                <th>faculdade</th>
+            </tr>
+        </table>
+        <table border="1">
+            <tr>
+                <th colspan="4">quinta</th>
+                <th colspan="4">sexta</th>
+            </tr>
+            <tr>
+                <th>muay thay</th>
+                <th>estudar</th>
+                <th>trabalhar</th>
+                <th>faculdade</th>
+                <th>muay thay</th>
+                <th>estudar</th>
+                <th>trabalhar</th>
+                <th>faculdade</th>
+            </tr>
+        </table>
+        <h2>contatos</h2>
+        <footer class="footer-container">
+			<div class="footer-content-2">
+				<div>
+					<p><a href="hhttps://web.whatsapp.com" target="_blank">
+						+55 (47) 99942-8389
+					</a></p>
+                </div>                
+                <div>
+                    <i class="fa fa-instagram"></i>
+                    <p><a href="https://www.instagram.com" target="_blank">
+                        instagram
+                    </a></p>
+				</div>
+                <div>
+                    <i class="fa fa-linkedin"></i>
+                    <p><a href="https://www.linkedin.com/in/carlos-e-b-knebel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXxIxlQrmT7ubXHZGu0IMlw%3D%3D" target="_blank">
+                        Linkedin
+                    </a></p>
+				</div>
+            </div>
+		</footer>
+
+        
+    </div>
+</body>
+  
+</html>
